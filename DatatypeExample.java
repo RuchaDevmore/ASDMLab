@@ -1,4 +1,4 @@
-package day1;
+
 //variables 
 //1) local variable
 //2) class variable
